@@ -3,7 +3,7 @@ package gitTest01;
 public class git {
 	public static void main(String[] args) {
 		System.out.println("tired");
-		System.out.println("aaaaaaaaaaaaaaaaaaa");
+		System.out.println("aaaaabbbbbbbbaaaaa");
 	}
 
 }
